@@ -1,0 +1,32 @@
+{
+    "cardDetails": [
+        {
+            "id": 1,
+            "imgSrc": "assets/img_1.png",
+            "title": "Sacramento River Cats",
+            "events": "48 Events",
+            "sport": "Baseball"
+        },
+        {
+            "id": 2,
+            "imgSrc": "assets/img_2.png",
+            "title": "Las Vegas Aviators",
+            "events": "28 Events",
+            "sport": "Baseball"
+        },
+        {
+            "id": 3,
+            "imgSrc": "assets/img_3.png",
+            "title": "new jersey devils",
+            "events": "15 Events",
+            "sport": "Ice Hockey"
+        },
+        {
+            "id": 4,
+            "imgSrc": "assets/img_1.png",
+            "title": "Las Vegas Aviators",
+            "events": "28 Events",
+            "sport": "Baseball"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "ticketDetails": [
+        {
+            "id": 1,
+            "imgSrc": "assets/Ticket_Mockup_1.png",
+            "title": "Las Vegas Aviators",
+            "place": "Las Vegas Ballpark, Las Vegas, Nevada",
+            "buttonText":"Take Flight Collection"
+        },
+        {
+            "id": 2,
+            "imgSrc": "assets/Ticket_Mockup_2.png",
+            "title": "Sacramento River Cats",
+            "place": "Sutter Health Park, Sacramento, California",
+            "buttonText":"Orange Collection"
+        },
+        {
+            "id": 3,
+            "imgSrc": "assets/Ticket_Mockup_3.png",
+            "title": "Las Vegas Aviators",
+            "place": "Las Vegas Ballpark, Las Vegas, Nevada",
+            "buttonText": "Take Flight Collection"
+        } 
+    ]
+}
